@@ -8,10 +8,8 @@ CS + Physics at **Auburn University** (May 2027). I do computer vision research 
 
 ### 🔬 Research
 
-| | |
-|---|---|
-| **[SketchVLM](https://sketchvlm.github.io/)**: vision-language models that draw on the image to explain their answers<br>*First author · **EMNLP 2026 Main***<br>A training-free, model-agnostic framework in which a VLM produces editable SVG overlays. Up to **+28.5 pp** accuracy on visual reasoning over image-editing and fine-tuned baselines. | [Paper](https://arxiv.org/abs/2604.22875) · [Code ⭐](https://github.com/Brandon-Collins7/sketchvlm) · [Demo](https://sketch-vlm-demo.vercel.app/) |
-| **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](https://psrdataset.github.io/)**<br>First author · **WACV 2026**, CVPR 2025 Workshops*<br>PSR, a dataset of **305K** real image-edit requests. The best AI editors fulfill only **33%** of them. | [Paper](https://arxiv.org/abs/2505.16181) · [Project](https://psrdataset.github.io/) |
+- **[SketchVLM](https://sketchvlm.github.io/)**: vision-language models that draw on the image to explain their answers<br>*First author · **EMNLP 2026 Main*** · [Paper](https://arxiv.org/abs/2604.22875) · [Code ⭐](https://github.com/Brandon-Collins7/sketchvlm) · [Demo](https://sketch-vlm-demo.vercel.app/)<br>A training-free, model-agnostic framework in which a VLM produces editable SVG overlays. Up to **+28.5 pp** accuracy on visual reasoning over image-editing and fine-tuned baselines.
+- **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](https://psrdataset.github.io/)**<br>*First author · **WACV 2026**, CVPR 2025 Workshops* · [Paper](https://arxiv.org/abs/2505.16181) · [Project](https://psrdataset.github.io/)<br>PSR, a dataset of **305K** real image-edit requests. The best AI editors fulfill only **33%** of them.
 
 ### 💼 Experience
 
